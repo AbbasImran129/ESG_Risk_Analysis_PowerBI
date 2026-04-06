@@ -99,7 +99,8 @@ The dashboard is designed to support ESG due diligence, portfolio screening, reg
 
 ## 📄 Report
 
-A detailed written report (`ESG_Risk_Analysis_Report.docx`) accompanies this dashboard, covering the executive summary, full methodology, findings, and investment recommendations.
-
+A detailed written report (`ESG_Risk_Analysis_Report.pdf`) accompanies this dashboard, covering the executive summary, full methodology, findings, and investment recommendations.
+[View Full Report](ESG_Risk_Analysis_Report.pdf)
 ---
 ## Dashboard
+<img width="1156" height="653" alt="Screenshot 2026-04-05 030456" src="https://github.com/user-attachments/assets/6e37927a-bdee-475c-a09c-61c1103759c3" />
